@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
++ core: Pass the `Root` as owned parameter (without reference) to `Component::init`
+
 ## 0.7.0-beta.2 - 2023-10-14
 
 ### Added
